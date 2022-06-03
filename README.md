@@ -12,4 +12,4 @@ i do html, css, js, and python
 ---
 <br>
 
-![](https://komarev.com/ghpvc/?username=v8f)
+<img src="https://profile-counter.glitch.me/v8f/count.svg" />
