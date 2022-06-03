@@ -10,6 +10,6 @@ i do html, css, js, and python
 <br>
 <br>
 --- 
-![](https://komarev.com/ghpvc/?username=v8f&color=green)
+![](https://komarev.com/ghpvc/?username=v8f&color=gray)
 <br>
 <br>
