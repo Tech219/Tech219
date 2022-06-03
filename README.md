@@ -10,6 +10,6 @@ i do html, css, js, and python
 <br>
 <br>
 --- 
-visitors: <img src="https://profile-counter.glitch.me/v8f/count.svg"/>
+![](https://komarev.com/ghpvc/?username=v8f&color=green)
 <br>
 <br>
