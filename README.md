@@ -11,5 +11,7 @@ i do html, css, js, and python
 <br>
 ---
 <br>
+visitors:
+<br>
 
 <img src="https://profile-counter.glitch.me/v8f/count.svg" />
