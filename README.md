@@ -9,9 +9,7 @@ i do html, css, js, and python
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v8f)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
----
-visitors:
+--- 
+visitors: <img src="https://profile-counter.glitch.me/v8f/count.svg"/>
 <br>
 <br>
-
-<img src="https://profile-counter.glitch.me/v8f/count.svg" />
