@@ -1,61 +1,45 @@
-# 🚀 Awesome Project
+# 👋 Hello, I'm [Your Name]
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-project.svg)](https://github.com/yourusername/awesome-project/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-project.svg)](https://github.com/yourusername/awesome-project/network)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/yourusername/awesome-project.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20project!&url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fawesome-project)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/your-github-username)
 
-Welcome to the Awesome Project! This is a brief description of what your project does and why it's awesome.
+## 🚀 About Me
 
-## ✨ Features
+🎓 I'm a passionate developer and lifelong learner.
+💼 Currently working on [Your Current Project/Company].
+🌱 I'm currently learning [Technology/Skill you're learning].
+👯 I'm looking to collaborate on open source projects.
 
-- 📦 Feature 1: Description of feature 1
-- 🎨 Feature 2: Description of feature 2
-- 🔧 Feature 3: Description of feature 3
+## 🛠 Skills
 
-## 🚀 Quick Start
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-```bash
-git clone https://github.com/yourusername/awesome-project.git
-cd awesome-project
-npm install
-npm start
-```
+## 📊 GitHub Stats
 
-## 📚 Documentation
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-For full documentation, visit our [Wiki](https://github.com/yourusername/awesome-project/wiki).
+## 🏆 GitHub Trophies
 
-## 🖼️ Screenshots
+[![trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://via.placeholder.com/468x300?text=App+Screenshot+1" alt="App Screenshot 1" width="400">
-  <img src="https://via.placeholder.com/468x300?text=App+Screenshot+2" alt="App Screenshot 2" width="400">
-</p>
+## 📫 How to reach me
 
-## 🤝 Contributing
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@example.com)
 
-Contributions, issues, and feature requests are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for how to get started.
+## 📈 Coding Activity Graph
 
-## 📊 Project Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Contributors](https://img.shields.io/github/contributors/yourusername/awesome-project)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/yourusername/awesome-project)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/awesome-project)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/yourusername/awesome-project)
+## 🎵 Now Playing
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Shields.io](https://shields.io/)
-- [Choose an Open Source License](https://choosealicense.com)
+[![Spotify](https://novatorem-woad-ten.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-user-id)
 
 ---
 
-<p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
-</p>
+⭐️ From [your-github-username](https://github.com/your-github-username)
